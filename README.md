@@ -28,26 +28,26 @@
 
 ## 📁 **Key Projects:**
 
-### **🔹 VET (Verification, Enrichment & Transformation) AI Application**
-- **Role:** Automation Tester | **Organization:** JP Morgan & Chase | **Duration:** Mar 2021 - Jan 2023
-- Enhanced a multi-system, scalable test automation framework for SWIFT & XML trade flows.
-- Achieved rapid execution of 700+ scenarios in just 15 minutes through parallel testing.
-- Led BDD training, reducing the regression testing cycle from 7 days to 2 days.
-
 ### **🔹 NEXUS SEI (Switch Edge Interface) - EDA Application**
 - **Role:** Senior Automation Tester | **Organization:** MasterCard | **Duration:** Jan 2023 - Present
 - Developed a robust test automation framework for local and PCF environments.
 - Achieved 100% test coverage for SEI components, with optimized parallel test execution.
 - Collaborated with DevOps for deployment troubleshooting and smooth production rollout.
 
-### **🔹 HSBCnet Commercial Banking**
-- **Role:** Automation Tester | **Organization:** Capgemini (Client: HSBC) | **Duration:** Apr 2016 - Dec 2018
-- Automated Selenium-based test scripts for SWIFT Message Testing and payment file validation.
+### **🔹 VET (Verification, Enrichment & Transformation) AI Application**
+- **Role:** Automation Tester | **Organization:** JP Morgan & Chase | **Duration:** Mar 2021 - Jan 2023
+- Enhanced a multi-system, scalable test automation framework for SWIFT & XML trade flows.
+- Achieved rapid execution of 700+ scenarios in just 15 minutes through parallel testing.
+- Led BDD training, reducing the regression testing cycle from 7 days to 2 days.
 
 ### **🔹 ElementFleet (Ordering)**
 - **Role:** Automation Lead | **Organization:** Cybage | **Duration:** Aug 2018 - Feb 2021
 - Led automation efforts for the Ordering platform, implementing CI/CD with Jenkins.
 - Enhanced parallel execution with Jenkins pipeline scripting in Groovy.
+
+### **🔹 HSBCnet Commercial Banking**
+- **Role:** Automation Tester | **Organization:** Capgemini (Client: HSBC) | **Duration:** Apr 2016 - Dec 2018
+- Automated Selenium-based test scripts for SWIFT Message Testing and payment file validation.
 
 ---
 
