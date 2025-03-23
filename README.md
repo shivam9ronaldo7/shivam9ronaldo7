@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Shivam Pratap Singh
 
-🚀 **Senior QA Engineer** with over 9 years of experience in Software Automation Testing, specializing in:
+🚀 **Senior QA Engineer** with over 9+ years of experience in Software Automation Testing, specializing in:
 - Test Planning, Design, Execution, and Defect Reporting
 - Automation Framework Development
 - CI/CD, DevOps, and Cloud Integration
@@ -8,7 +8,7 @@
 ---
 
 ## 🏢 **Domain Expertise:**
-- Commercial Banking (HSBC) - 3 years
+- Commercial Banking (HSBC) - 3+ years
 - Investment Banking (JP Morgan) - 2+ years
 - Payments & Transactions (MasterCard) - 2+ years
 - Logistics & Retail
